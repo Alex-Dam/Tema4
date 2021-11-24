@@ -24,3 +24,7 @@ La multiplicació de 10 i 5 és 50
 La divisió entre 10 i 5 és 2
 ~~~
 Per ultim ems faltaria fer el makefile per a assignar tarees per exemple per a limpiar facilment el nostre proyecte.
+__Enllaç al repositori:__
+~~~
+https://github.com/Alex-Dam/Tema4.git
+~~~
